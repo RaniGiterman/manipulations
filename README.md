@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://media.npr.org/assets/img/2017/10/12/trh_manipulation_artwork1_wide-b3b9648e2f6fb9a829cc1d800adf7dada2e5f57e-s1400-c85.webp)" alt="Material Bread logo">
 </p>
-  # manipulations
 
 - reverseStr - returns the string reversed
 - randomNum - returns a number between a set of 2 numbers
