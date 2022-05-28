@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://media.npr.org/assets/img/2017/10/12/trh_manipulation_artwork1-66f2affbe9b4b5259973faa31b24a17baa6963ca-s1200.jpg" alt="Material Bread logo">
+  <img width="200" src="https://cdn.powerofpositivity.com/wp-content/uploads/2015/09/manipulate-puppet.jpg" alt="Material Bread logo">
 </p>
 
 - reverseStr - returns the string reversed
