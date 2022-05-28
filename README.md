@@ -2,10 +2,12 @@
 <p align="center">
   <img width="200" src="https://cdn.powerofpositivity.com/wp-content/uploads/2015/09/manipulate-puppet.jpg" alt="Material Bread logo">
   <br>
+
+</p>
+
   <h1>
     <b>Manipulations</b>
-  </h1>
-</p>
+  </h1> 
 
 - reverseStr - returns the string reversed
 - randomNum - returns a number between a set of 2 numbers
