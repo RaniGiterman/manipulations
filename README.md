@@ -19,7 +19,7 @@
  🟡 Get started 🟡
 </h1>
 <p style="color: yellow;">
-```bash
+```javascript
   const man = require("manipulations")
   
   man.reverseStr("Rani") // inaR
