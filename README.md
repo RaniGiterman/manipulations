@@ -19,6 +19,7 @@
  🟡 Get started 🟡
 </h1>
 <p style="color: yellow;">
+  
 ```
   const man = require("manipulations")
   
