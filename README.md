@@ -5,6 +5,37 @@
 
 </p>
 
+<h1>
+  About the package
+</h1>
+<p style="color: yellow;">
+  This package offers very simple functions to make your life as a developer even easier. <br>
+  The goal behind this package is to allow developers to implement simple manipulations on strings, numbers and arrays without having to google their way to an           efficient answer. <br>
+  
+  Happy coding!
+</p>
+
+<h1>
+  Get started
+</h1>
+<p style="color: yellow;">
+```bash
+  const man = require("manipulations")
+  
+  man.reverseStr("Rani") // inaR
+```
+</p>
+
+
+<h1>
+  Installation
+</h1>
+<p style="color: yellow;">
+```bash
+$ npm i manipulations
+```
+</p>
+
   <h1>
     <b>Manipulations</b>
   </h1> 
