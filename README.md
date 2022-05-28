@@ -32,7 +32,11 @@
   💛 Installation 💛
 </h1>
 <p style="color: yellow;">
+  
+  ```
 $ npm i manipulations
+  ```
+  
 </p>
 
   <h1>
