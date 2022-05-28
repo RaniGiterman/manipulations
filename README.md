@@ -1,4 +1,7 @@
-# manipulations
+<p align="center">
+  # manipulations
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
 
 - reverseStr - returns the string reversed
 - randomNum - returns a number between a set of 2 numbers
