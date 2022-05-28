@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://media.npr.org/assets/img/2017/10/12/trh_manipulation_artwork1_wide-b3b9648e2f6fb9a829cc1d800adf7dada2e5f57e-s1400-c85.webp)" alt="Material Bread logo">
+  <img width="200" src="https://media.npr.org/assets/img/2017/10/12/trh_manipulation_artwork1-66f2affbe9b4b5259973faa31b24a17baa6963ca-s1200.jpg" alt="Material Bread logo">
 </p>
 
 - reverseStr - returns the string reversed
