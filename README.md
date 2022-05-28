@@ -19,7 +19,7 @@
  🟡 Get started 🟡
 </h1>
 <p style="color: yellow;">
-```
+```js
   const man = require("manipulations")
   
   man.reverseStr("Rani") // inaR
@@ -31,7 +31,7 @@
   💛 Installation 💛
 </h1>
 <p style="color: yellow;">
-```
+```bash
 $ npm i manipulations
 ```
 </p>
