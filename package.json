@@ -1,6 +1,6 @@
 {
   "name": "manipulations",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "A NPM package to make your life as a developer even easier.",
   "main": "index.js",
   "scripts": {
