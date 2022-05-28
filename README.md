@@ -6,7 +6,7 @@
 </p>
 
 <h1>
-  About the package
+ 🟨 About the package 🟨
 </h1>
 <p style="color: yellow;">
   This package offers very simple functions to make your life as a developer even easier. <br>
@@ -16,7 +16,7 @@
 </p>
 
 <h1>
-  Get started
+ 🟡 Get started 🟡
 </h1>
 <p style="color: yellow;">
 ```bash
@@ -28,7 +28,7 @@
 
 
 <h1>
-  Installation
+  💛 Installation 💛
 </h1>
 <p style="color: yellow;">
 ```bash
@@ -37,7 +37,7 @@ $ npm i manipulations
 </p>
 
   <h1>
-    <b>Manipulations</b>
+   💡 <b>Manipulations</b> 💡
   </h1> 
 
 - reverseStr - returns the string reversed
