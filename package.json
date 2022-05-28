@@ -1,0 +1,21 @@
+{
+  "name": "manipulations",
+  "version": "1.0.1",
+  "description": "A NPM package to make your life as a developer even easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaniGiterman/manipulations.git"
+  },
+  "author": "Rani Giterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaniGiterman/manipulations/issues"
+  },
+  "homepage": "https://github.com/RaniGiterman/manipulations#readme",
+  "keywords": ["StringManipulations, ArrayManipulations, Simple"],
+  "readme": ""
+}
