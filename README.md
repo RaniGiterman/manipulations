@@ -20,7 +20,7 @@
 </h1>
 <p style="color: yellow;">
   
-```
+```js
   const man = require("manipulations")
   
   man.reverseStr("Rani") // inaR
