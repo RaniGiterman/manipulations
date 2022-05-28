@@ -1,5 +1,7 @@
+
 <p align="center">
   <img width="200" src="https://cdn.powerofpositivity.com/wp-content/uploads/2015/09/manipulate-puppet.jpg" alt="Material Bread logo">
+  <b>Manipulations</b>
 </p>
 
 - reverseStr - returns the string reversed
